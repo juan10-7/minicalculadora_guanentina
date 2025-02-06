@@ -28,7 +28,7 @@ si se selecciona opc 6 se hace logaritmacion logxy
 el resultado de la operacion
 
 ## diseño
-![diagrama de flujo]() "diagrama de flujo"
+![diagrama de flujo](diagrama.png) "diagrama de flujo"
 
 
 

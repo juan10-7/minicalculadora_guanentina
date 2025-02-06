@@ -1,3 +1,4 @@
+import math
 x=int(input("ingrese un numero : "))
 
 y=int(input("ingrese otro numero: "))
@@ -7,21 +8,26 @@ opc=int(input("ingrese una opc: "))
 ##procesing
 
 if opc==1:
-    print(x+y) #output
+    r=(x+y) 
 
 if opc==2:
-    print(x-y) #output
+    r=(x-y) 
 
 if opc==3:
-    print(x*y) #output
+    r=(x*y) 
 
 if opc==4:
-    print(x/y) #output
+    r=(x/y) 
 
 if opc==5:
-    print(xŷ) #output
+    r=(x**y) 
 
+if opc== 6:
+    r = math.log(x,y) 
 
+# output
+
+print("resultado:"+str(r))
 
 
 
