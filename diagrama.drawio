@@ -20,7 +20,7 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="minicalculadora_guanentina&lt;br&gt;1-- sumar (x+y)&lt;br&gt;2-- restar (x-y)&lt;br&gt;3-- multiplicar (y*y)&lt;br&gt;4-- divicion (x/y)&lt;br&gt;5-- potencia (x^y)&lt;br&gt;6-- logaritmo (logxy)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#80FF00;" parent="1" vertex="1">
-                    <mxGeometry x="250" y="110" width="180" height="150" as="geometry"/>
+                    <mxGeometry x="250" y="120" width="180" height="140" as="geometry"/>
                 </mxCell>
                 <mxCell id="26" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7" target="10" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -212,6 +212,13 @@
                 </mxCell>
                 <mxCell id="67" value="r= no valido" style="whiteSpace=wrap;html=1;fillColor=#009900;" parent="1" vertex="1">
                     <mxGeometry x="-360" y="970" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+                    <mxGeometry width="80" relative="1" as="geometry">
+                        <mxPoint x="-320" y="1040" as="sourcePoint"/>
+                        <mxPoint x="450" y="1040" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
